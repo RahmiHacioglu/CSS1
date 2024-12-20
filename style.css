@@ -1,16 +1,25 @@
 body{
     text-align: center;
+    background-color: rgb(97, 85, 100);
 }
 h1 {
-    color: red;
+    color: rgb(92, 44, 5);
     font-size:40px;
     ;
 }
 .info{
-    color:aquamarine;
+    color:rgb(16, 61, 23);
     font-size:20px;
 }
 h2{
-    color:chocolate;
+    color:rgb(17, 70, 77);
     font-size:30px;
+}
+.other-info{
+    font-size: 20px;
+    color: rgb(22, 22, 22);
+}
+h3{
+    font-size: 25px;
+    color: rgb(56, 37, 11);
 }
